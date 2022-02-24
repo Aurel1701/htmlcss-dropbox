@@ -7,21 +7,92 @@
 }
 body{
     width: 100vw;
+    display: block;
+}
+main{
+    margin-left: 10%;
+    margin-right: 10%;
+   
+
 }
 
 .title-header{
     height: 80px;
     background-color:red;
-    width:100%;
+    width:50%;
+    float: left;
     
 }
+.title-header-2{
+    height: 80px;
+    background-color:yellow;
+    width:50%;
+    float: right;
+}
+    
 .text-header{
     height: 850px;
     background-color:green;
-    width: 100%;
+    width:100vw;
    
-   
-   
+}
+
+.Piano-dropbox{
+    height:1350px;
+    background-color: purple;
+    position: relative;
     
+}
+.title-dropbox{
+background-color:blue;
+height: 280px;
 
 }
+.tema-dropbox{
+    height: 1070px;
+    width:100%;
+    background-color:white;
+}
+.info-1{
+    width: 30%;
+    height: 100%;
+    background-color: bisque;
+    float: left;
+}
+.info-2{
+    width: 30%;
+    height: 100%;
+    background-color:yellowgreen;
+    float: left;
+    margin-left: 5%;
+}
+.info-3{
+    width: 30%;
+    height: 100%;
+    background-color:gray;
+    float:left;
+    margin-left: 5%;
+}
+.Enterprise{
+    height: 230px;
+    background-color:blue;
+
+}
+.Info-Enterprise{
+    height: 600px;
+    background-color:yellow;
+}
+
+.Dropbox-business{
+    height: 130px;
+    background-color: grey;
+}
+.info-business{
+    height:1100px;
+    background-color: aqua;
+}
+.last-business{
+    height:400px;
+    background-color:green;
+}
+
