@@ -11,9 +11,11 @@ body{
 }
 main{
     margin-left: 10%;
-    margin-right: 10%;
-   
+    margin-right: 10%; 
 
+}
+footer{
+    width: 100vw;
 }
 
 .title-header{
@@ -96,3 +98,17 @@ height: 280px;
     background-color:green;
 }
 
+.Designit{
+    height: 840px;
+    background-color:blueviolet;
+
+}
+.Domande-frequenti{
+    height: 720px;
+    background-color:lightskyblue;
+
+}
+.final-footer{
+    height: 500px;
+    background-color: brown;
+}
