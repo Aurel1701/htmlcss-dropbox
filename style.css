@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}
+body{
+    width: 100vw;
+}
+
+.title-header{
+    height: 80px;
+    background-color:red;
+    width:100%;
+    
+}
+.text-header{
+    height: 850px;
+    background-color:green;
+    width: 100%;
+   
+   
+   
+    
+
+}
