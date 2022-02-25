@@ -2,8 +2,7 @@
     margin:0;
     padding: 0;
     box-sizing: border-box;
-    
-    
+     
 }
 body{
     width: 100vw;
@@ -19,17 +18,47 @@ footer{
 }
 
 .title-header{
-    height: 80px;
-    background-color:red;
+    height: 80px;   
     width:50%;
     float: left;
+    background-color: white;
+    padding-top:20px;
+    
     
 }
+li{
+    float:left; 
+    list-style: none;
+    margin-left: 20px;
+    color:black;
+    display: inline-block;
+    padding-top: 5px;
+    font-size: 17px;
+    
+    
+ }
+ .logo{
+    display:inline-block;
+    float: left;
+    padding-left: 30px; 
+
+ }
 .title-header-2{
     height: 80px;
-    background-color:yellow;
+    background-color:white;
     width:50%;
     float: right;
+    font-size: 17px;
+}
+.title-header-2 ul{
+    padding-top: 20px;
+    float: right;
+    font-size: 16px;
+
+}
+.button-inizia{
+    padding: 8px;
+    background-color: blue;
 }
     
 .text-header{
