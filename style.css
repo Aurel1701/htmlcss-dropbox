@@ -67,9 +67,10 @@ li{
 }
     
 .text-header{
-    height: 720px;
+    height: 760px;
     background-color:rgba(180, 208, 231, 1);
-    width:100vw;  
+    width:100vw;
+      
 }
 .tb-40{
     max-width: 40%;
@@ -94,6 +95,8 @@ li{
     font-size: 75px;
     padding-left:11%;
     padding-right: 10%;
+    padding-top: 10%;
+    
     
 }
 .text-header p{
@@ -126,9 +129,20 @@ li{
 .title-dropbox{
 background-color:blue;
 height: 280px;
-margin-top: 50px;
+margin-top: 80px;
+text-align: center;
+
 
 }
+.title-dropbox h1{
+    color: black;
+
+    
+    
+   
+    
+} 
+
 .tema-dropbox{
     height: 1070px;
     width:100%;
