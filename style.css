@@ -67,6 +67,12 @@ li{
     width:100vw;
    
 }
+.text-header h1{
+    font-size: 75px;
+    padding-left:11%;
+    padding-right: 10%;
+
+}
 
 .Piano-dropbox{
     height:1350px;
