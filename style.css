@@ -4,6 +4,8 @@
     box-sizing: border-box;
      
 }
+
+
 body{
     width: 100vw;
     display: block;
@@ -34,15 +36,16 @@ li{
     display: inline-block;
     padding-top: 5px;
     font-size: 17px;
-    
-    
+ 
  }
+
  .logo{
     display:inline-block;
     float: left;
     padding-left: 30px; 
 
  }
+
 .title-header-2{
     height: 80px;
     background-color:white;
@@ -50,6 +53,7 @@ li{
     float: right;
     font-size: 17px;
 }
+
 .title-header-2 ul{
     padding-top: 20px;
     float: right;
@@ -59,20 +63,59 @@ li{
 .button-inizia{
     padding: 8px;
     background-color: blue;
+    color: white; 
 }
     
 .text-header{
-    height: 850px;
+    height: 720px;
     background-color:rgba(180, 208, 231, 1);
-    width:100vw;
-   
+    width:100vw;  
 }
+.tb-40{
+    max-width: 40%;
+    padding-left:155px;
+    float: left;
+    position: absolute;
+
+}
+.tb-60{
+    float:right;
+    max-width: 60%; 
+    margin-right: 30px;
+  
+}
+.jumbo{
+    max-width: 100%;
+    padding-top: 40px;
+    
+}
+    
 .text-header h1{
     font-size: 75px;
     padding-left:11%;
     padding-right: 10%;
-
+    
 }
+.text-header p{
+    font-size: 17px;
+    padding-top:40px;
+    
+}
+.annulla{
+    font-size: 17px;
+    margin-top: 10px;
+   
+    
+}
+.text-header button{
+    font-size: 17px;
+    margin-top: 30px;
+    background-color: blue;
+    padding: 10px;
+    border-style: none;
+    color: white;   
+}
+<!--fine-header-->
 
 .Piano-dropbox{
     height:1350px;
@@ -83,6 +126,7 @@ li{
 .title-dropbox{
 background-color:blue;
 height: 280px;
+margin-top: 50px;
 
 }
 .tema-dropbox{
