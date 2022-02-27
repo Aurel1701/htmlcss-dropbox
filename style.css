@@ -28,7 +28,7 @@ footer{
     
     
 }
-li{
+ li{
     float:left; 
     list-style: none;
     margin-left: 20px;
@@ -74,8 +74,7 @@ li{
 }
 .tb-40{
     max-width: 40%;
-    padding-left:155px;
-    float: left;
+    padding-left:11%;
     position: absolute;
 
 }
@@ -127,21 +126,35 @@ li{
     
 }
 .title-dropbox{
-background-color:blue;
-height: 280px;
+height: 270px;
 margin-top: 80px;
-text-align: center;
+
+
+
 
 
 }
-.title-dropbox h1{
+.title-dropbox h2{
     color: black;
-
+    text-align: center;
+    display: inline-block;
+    margin: 0;
+    font-size: 50px;
+    padding-top: 130px;
     
     
    
-    
 } 
+.p-dropbox p{
+    color: black;
+    display: inline;
+    font-size: 20px;
+    
+   
+} 
+.p-dropbox{
+    padding-bottom: 40px;
+}
 
 .tema-dropbox{
     height: 1070px;
@@ -150,23 +163,97 @@ text-align: center;
 }
 .info-1{
     width: 30%;
-    height: 100%;
-    background-color: bisque;
+    height: 80%;
     float: left;
+    border: 1px solid lightgray;
 }
+.margin-left{
+    margin-left:20px;
+}
+
+.list-info1-top{
+    padding-top: 25px;
+}
+.list-info1-top h4{
+    padding-top: 20px;
+}
+.mese-info1-top{
+    padding-top: 15px;
+    color: lightgrey;
+
+}
+.list-center1{
+    padding-top: 35px;
+    
+}
+.list-center2{
+    padding-top: 15px;
+    
+}
+.list-center3{
+    padding-top: 15px;
+    
+}
+.list-center p{
+    padding-top: 15px;
+    
+}
+.list-center button{
+    margin-top: 40px;
+    font-size: 17px;
+    background-color: blue;
+    padding: 5px;
+    border-style: none;
+    color: white; 
+    margin-left: 15px;
+    
+}
+.hr-align{
+    margin-top: 30px;
+    width: 20%;
+    color:lightgray
+}
+.acquista{
+    padding-top: 25px;
+    
+}
+.list-center span{
+    color: blue;
+    
+}
+.list-center h3{
+    padding-top: 40px;
+    
+}
+.space-align-list{
+    margin:2%;
+    padding-top: 20px;
+}
+.punti-salienti{
+    padding-top: 15px;
+}
+.border{
+    border-bottom: 1px solid lightgrey;
+    padding: 15px;
+    text-align: center;
+    padding-top: 13px;
+}
+
+
 .info-2{
     width: 30%;
-    height: 100%;
-    background-color:yellowgreen;
+    height: 80%;
     float: left;
     margin-left: 5%;
+    border: 1px solid lightgrey;
+
 }
 .info-3{
     width: 30%;
-    height: 100%;
-    background-color:gray;
+    height: 80%;
     float:left;
     margin-left: 5%;
+    border: 1px solid lightgrey;
 }
 .Enterprise{
     height: 230px;
