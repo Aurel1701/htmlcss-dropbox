@@ -456,11 +456,34 @@ height: 350px;
     
  }
 .Domande-frequenti{
-    height: 720px;
-    background-color:lightskyblue;
-
+    height: 500px;
+    margin-left: 10%;
+    margin-top: 100px;
+    
 }
+.Domande-frequenti h2{
+    padding-bottom: 30px;
+    font-size: 30px;
+    
+}
+.Domande-frequenti p{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 20px;  
+    
+}
+.Domande-frequenti hr{
+    width: 80%;
+    
+}
+.freccia{
+    float: right;
+    margin-right: 15%;
+    margin-top: 30px;
+      
+}
+
 .final-footer{
     height: 500px;
-    background-color: brown;
+    background-color:black;
 }
