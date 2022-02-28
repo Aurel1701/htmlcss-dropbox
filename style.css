@@ -110,6 +110,11 @@ footer{
    
     
 }
+.icona{
+    padding-top: 30px;
+    font-size: 50px;
+}
+
 .text-header button{
     font-size: 17px;
     margin-top: 30px;
@@ -441,6 +446,7 @@ height: 350px;
 .porta-dropbox h2{
    padding-top: 130px;
    position: absolute;
+   color: rgba(99, 13, 47, 1);
        
 }
 .porta-dropbox button{
@@ -486,4 +492,75 @@ height: 350px;
 .final-footer{
     height: 500px;
     background-color:black;
+    padding-top: 10%;
+    
 }
+.footer-1{
+ padding-left: 10%;
+ color: white;
+ width: 15%;
+ position: absolute;
+ 
+}
+.footer-1 h3{
+   font-size: 30px;
+   padding-bottom: 20px;
+   }
+.footer-1 p{
+    padding-bottom: 10px;
+}
+.footer-1 hr{
+    width: 100px;
+    color:grey;
+    margin-top: 50px;
+}
+.footer-2{
+   width: 15%;
+   float: left;
+   margin-left: 25%;
+   color: white;
+}
+.footer-2 h3{
+    font-size: 30px;
+    padding-bottom: 20px;
+    }
+ .footer-2 p{
+     padding-bottom: 10px;
+ }
+ 
+ .footer-3 h3{
+    font-size: 30px;
+    padding-bottom: 20px;
+    }
+ .footer-3 p{
+     padding-bottom: 10px;
+ }
+ .footer-3{
+    width: 15%;
+    float: left;
+    color: white;
+ }
+ .footer-4 h3{
+    font-size: 30px;
+    padding-bottom: 20px;
+    }
+ .footer-4 p{
+     padding-bottom: 10px;
+ }
+ .footer-4{
+    width: 15%;
+    float: left;
+    color: white;
+ }
+ .footer-5 h3{
+    font-size: 30px;
+    padding-bottom: 20px;
+    }
+ .footer-5 p{
+     padding-bottom: 10px;
+ }
+ .footer-5{
+    width: 15%;
+    float: left;
+    color: white;
+ }
