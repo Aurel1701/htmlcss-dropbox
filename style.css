@@ -350,9 +350,17 @@ margin-top: 80px;
     padding-top: 10px;
     padding-bottom: 20px;
 }
-.info-business p{
+.last-info h2{
+    font-size: 40px;
     
-    
+}
+.last-info
+.p-info{
+    color: blue;
+    border-bottom: 1px solid blue;
+    width: 200px;
+    padding-top: 30px;
+
 }
 .business-1{
 width: 30%;
