@@ -163,7 +163,7 @@ margin-top: 80px;
 }
 .info-1{
     width: 30%;
-    height: 80%;
+    height: 95%;
     float: left;
     border: 1px solid lightgray;
 }
@@ -205,7 +205,7 @@ margin-top: 80px;
     padding: 5px;
     border-style: none;
     color: white; 
-    margin-left: 15px;
+    
     
 }
 .hr-align{
@@ -242,7 +242,7 @@ margin-top: 80px;
 
 .info-2{
     width: 30%;
-    height: 80%;
+    height: 95%;
     float: left;
     margin-left: 5%;
     border: 1px solid lightgrey;
@@ -250,29 +250,130 @@ margin-top: 80px;
 }
 .info-3{
     width: 30%;
-    height: 80%;
+    height: 95%;
     float:left;
     margin-left: 5%;
     border: 1px solid lightgrey;
 }
 .Enterprise{
     height: 230px;
-    background-color:blue;
-
+    border: 1px solid lightgrey;
+   
+}
+.soluzioni-enterprise{
+    margin-left: 20px;
+    position:absolute;
+    
+}
+.soluzioni-enterprise h2{
+    padding-top: 25px;
+}
+.soluzioni-enterprise h3{
+    padding-top: 20px;
+}
+.scala-it{
+    padding-top: 30px;
 }
 .Info-Enterprise{
-    height: 600px;
-    background-color:yellow;
+    height: 550px;
+    margin-top: 70px;
+    
+   
+  
+    
+}
+.partner{
+    width: 48%;
+    height: 500px;
+    object-fit: cover;
+    position: absolute;
+}
+.title-partner{
+    float: right;
+    width: 37%;
+    
+
+}
+.title-partner h2{
+    font-size: 30px;
+    padding-top: 20px;
+
+}
+.title-partner p{
+    padding-top: 20px;
+
+}
+.trova{
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 20px;
+    width: 130px;
+   
+
+}
+
+.vendite-entreprise{
+    font-size: 17px;
+    background-color: blue;
+    padding: 5px;
+    border-style: none;
+    color: white;
+    float: right;
+    margin-top: 25px;
+    margin-right: 20px;
+    
+    
 }
 
 .Dropbox-business{
     height: 130px;
-    background-color: grey;
+   
 }
+.Dropbox-business h2{
+  font-size: 45px;
+}
+
 .info-business{
     height:1100px;
-    background-color: aqua;
+    
+    position: relative;
+    display: inline-block;
 }
+.info-business img{
+    width: 300px;
+    object-fit: cover;
+    
+}
+.info-business h3{
+    font-size: 25px;
+    
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.info-business p{
+    
+    
+}
+.business-1{
+width: 30%;
+float: left;
+margin-bottom: 35px;
+    
+}
+.business-2{
+    width: 30%; 
+    float: left;
+    margin-left: 5%;
+    margin-bottom: 35px;
+}
+.business-3{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    margin-bottom: 35px;
+}
+
+
 .last-business{
     height:400px;
     background-color:green;
